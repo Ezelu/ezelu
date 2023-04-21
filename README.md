@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ezelujhay" target="blank"><img src="https://img.shields.io/twitter/follow/ezelujhay?logo=twitter&style=for-the-badge" alt="ezelujhay" /></a> </p>
 
-- 🔭 I’m currently working on **A photo Sharing app**
+- 🔭 I’m currently working on **awesome applications that impact the world positively**
 
 - 🌱 I’m currently learning **Solidity and Ethers.js**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ezelu.netlify.app](https://ezelu.netlify.app)
 
-- 💬 Ask me about **Javascript, React and Express**
+- 💬 Ask me about **Javascript / Typescript and React / Next**
 
 - 📫 How to reach me **ezelujhay@gmail.com**
 
